@@ -11,3 +11,5 @@ CPIDE provides you with a ligthweight source code editor for C/C++ programs with
 Credits: SharpSSH DLL is used for implementing the SSH client connection. Available at http://sourceforge.net/projects/sharpssh/
 
 gdb(GNU Debugger) https://www.gnu.org/software/gdb/
+
+TO START OFF: Click on IDE.exe
